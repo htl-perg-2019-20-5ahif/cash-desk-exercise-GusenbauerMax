@@ -156,6 +156,7 @@ namespace CashDesk
     /// </summary>
     public interface IDataAccess : IDisposable
     {
+
         /// <summary>
         /// Initializes the data access layer
         /// </summary>

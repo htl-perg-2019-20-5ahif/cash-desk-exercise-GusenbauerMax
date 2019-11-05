@@ -1,0 +1,10 @@
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.json
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.dev.json
+D:\Texte\5_AHIF\C#\cash-desk-exercise-GusenbauerMax\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache

@@ -149,7 +149,7 @@ namespace CashDesk
         }
 
         /// <inheritdoc />
-        public Task DepositAsync(int memberNumber, decimal amount)
+        public async Task DepositAsync(int memberNumber, decimal amount)
         {
             if (dataContext == null)
             {
@@ -175,7 +175,8 @@ namespace CashDesk
                 Membership = dataContext.Memberships.First(m => m.MemberId == memberNumber)
             };
 
-            return Task.CompletedTask;
+            await dataContext.Deposits.AddAsync(Deposit);
+            await dataContext.SaveChangesAsync();
         }
 
         /// <inheritdoc />
